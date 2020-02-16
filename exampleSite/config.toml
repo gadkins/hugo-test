@@ -1,5 +1,5 @@
 baseURL = "https://hugo-uffizzi-test.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "agico"
 paginate = "6"
 summaryLength = "10"
