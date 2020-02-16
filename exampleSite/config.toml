@@ -22,52 +22,59 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "Company History"
-[[menu.footer]]
-URL = "about"
-name = "About us"
-[[menu.footer]]
-URL = "contact"
-name = "Contact us"
+URL = "#"
+name = "Privacy Policy"
+weight = 1
 [[menu.footer]]
 URL = "service"
 name = "Services"
-[[menu.footer]]
-URL = "#"
-name = "Privacy Policy"
-[[menu.main]]
-URL = "about"
-name = "About"
 weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 6
-[[menu.main]]
+[[menu.footer]]
 URL = "contact"
-name = "Contact"
-weight = 7
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 8
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+name = "Contact us"
+weight = 3
+[[menu.footer]]
+URL = "about"
+name = "About us"
+weight = 4
+[[menu.footer]]
+URL = "about"
+name = "Company History"
+weight = 5
 [[menu.main]]
 URL = "career"
 name = "Career"
 parent = "Pages"
+weight = 1
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+weight = 2
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "service"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
 author = "Themefisher"
