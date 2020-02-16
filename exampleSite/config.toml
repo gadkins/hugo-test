@@ -1,5 +1,5 @@
 baseURL = "https://hugo-uffizzi-test.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "agico"
 paginate = "6"
 summaryLength = "10"
@@ -82,7 +82,7 @@ contact_form_action = "#"
 description = "Drop us a line"
 email = "info@uffizzi.cloud"
 google_analitycs_id = "Your ID"
-logo = "images/uffizzi-logo-white-yellow.png"
+logo = "images/logo.png"
 mobile = "615-426-7141"
 [params.map]
 enable = true
@@ -92,7 +92,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.navigation_button]
 enable = true
-label = "sign up"
+label = "login"
 link = "#"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
