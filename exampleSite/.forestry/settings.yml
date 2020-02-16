@@ -11,11 +11,6 @@ sections:
   label: About (en)
   create: none
   match: "*"
-- type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
 - type: heading
   label: Service
 - type: directory
@@ -23,23 +18,11 @@ sections:
   label: Service (en)
   create: none
   match: "*"
-- type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
 - type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
   create: documents
   match: "**/*"
   templates:
@@ -53,13 +36,6 @@ sections:
   match: "*"
   templates:
   - job-post
-- type: directory
-  path: exampleSite/content/french/career
-  label: Career (fr)
-  create: documents
-  match: "*"
-  templates:
-  - job-post
 - type: heading
   label: Others Pages
 - type: directory
@@ -68,18 +44,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/team
   label: Team (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/team
-  label: Team (fr)
   create: none
   match: "*"
 - type: directory
@@ -88,20 +54,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/pages
   label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
   create: documents
   match: "**/*"
   templates:
@@ -113,23 +67,11 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 - type: heading
   label: Data
 - type: directory
   path: exampleSite/data/en
   label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
   create: all
   match: "**/*"
 - type: directory
