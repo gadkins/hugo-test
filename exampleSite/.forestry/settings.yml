@@ -5,6 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: About
+- type: directory
+  path: exampleSite/content/english/about
+  label: About (en)
+  create: none
+  match: "*"
+- type: directory
+  path: exampleSite/content/french/about
+  label: About (fr)
+  create: none
+  match: "*"
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
@@ -38,16 +50,6 @@ sections:
   - job-post
 - type: heading
   label: Others Pages
-- type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
 - type: directory
   path: exampleSite/content/english/service
   label: Service (en)
