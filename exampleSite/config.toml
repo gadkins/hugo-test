@@ -92,7 +92,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.navigation_button]
 enable = true
-label = "sign up"
+label = "login"
 link = "#"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
