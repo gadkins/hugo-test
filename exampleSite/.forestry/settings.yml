@@ -5,21 +5,17 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: About
+  label: Navigation
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
   create: none
   match: "*"
-- type: heading
-  label: Service
 - type: directory
   path: exampleSite/content/english/service
   label: Service (en)
   create: none
   match: "*"
-- type: heading
-  label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
@@ -27,22 +23,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Career
-- type: directory
-  path: exampleSite/content/english/career
-  label: Career (en)
-  create: documents
-  match: "*"
-  templates:
-  - job-post
-- type: heading
-  label: Others Pages
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
 - type: directory
   path: exampleSite/content/english/team
   label: Team (en)
@@ -51,6 +31,20 @@ sections:
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
+  create: none
+  match: "*"
+- type: heading
+  label: Nested Pages
+- type: directory
+  path: exampleSite/content/english/career
+  label: Career (en)
+  create: documents
+  match: "*"
+  templates:
+  - job-post
+- type: directory
+  path: exampleSite/content/english/pricing
+  label: Pricing (en)
   create: none
   match: "*"
 - type: directory
