@@ -8,7 +8,7 @@ description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> 
 image: images/blog/blog-post-10.jpg
 author: Admin
 categories:
-- Cloud Hosting
+- Investment planning
 tags:
 - Marketing
 - Finance
