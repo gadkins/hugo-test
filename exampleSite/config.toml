@@ -82,7 +82,7 @@ contact_form_action = "#"
 description = "Drop us a line"
 email = "info@uffizzi.cloud"
 google_analitycs_id = "Your ID"
-logo = "images/uffizzi-logo-white-yellow.png"
+logo = "images/logo.png"
 mobile = "615-426-7141"
 [params.map]
 enable = true
