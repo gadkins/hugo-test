@@ -5,7 +5,7 @@ banner:
   title: Deploy Apps. Delight Users.
   watermark: Deploy
   content: Uffizzi is where ideas come to life.
-  image: images/banner/banner-1.png
+  image: images/banner/banner-uffizzi.png
   button:
     enable: true
     label: Deploy an app
