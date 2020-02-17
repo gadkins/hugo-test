@@ -8,7 +8,7 @@ banner:
   image: images/banner/banner-1.png
   button:
     enable: true
-    label: Deploy your app
+    label: Deploy an app
     link: "#"
 partner:
   enable: true
