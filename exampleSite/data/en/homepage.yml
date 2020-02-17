@@ -20,7 +20,7 @@ partner:
 feature:
   enable: true
   subtitle: fetures
-  title: exclusive features
+  title: a cloud where confusion stops
   feature_item:
   - name: Free Trial
     image: images/feature/feature-1.png
