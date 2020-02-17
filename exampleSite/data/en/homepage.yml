@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/background/banner.svg
+  bg_image: images/background/banner.png
   title: Deploy Apps. Delight Users.
   watermark: Deploy
   content: Uffizzi is where ideas come to life.
