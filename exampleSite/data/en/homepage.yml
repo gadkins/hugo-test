@@ -11,7 +11,7 @@ banner:
     label: Deploy an app
     link: "#"
 partner:
-  enable: true
+  enable: false
   partner_logo:
   - images/partner/client-logo-1.png
   - images/partner/client-logo-2.png
