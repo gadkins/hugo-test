@@ -26,6 +26,7 @@ feature:
     image: images/feature/feature-1.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
+    title: One Simple Bill
   - name: No Setup
     image: images/feature/feature-2.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
