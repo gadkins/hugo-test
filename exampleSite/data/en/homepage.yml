@@ -24,9 +24,9 @@ feature:
   feature_item:
   - name: Simplified Billing
     image: images/feature/feature-1.png
-    content: Ever had trouble understanding your cloud bill? Straightforward billing
+    content: Ever had trouble understanding your cloud bill? Easy-to-understand billing
       let's you see your costs per project, per environment or per app.
-    title: Easy-to-understand billing
+    title: Simple billing
   - name: No Setup
     image: images/feature/feature-2.png
     content: With built-in DevOps automation, you no longer need a Ph.D. in Cloud
