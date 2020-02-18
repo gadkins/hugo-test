@@ -29,8 +29,8 @@ feature:
     title: Simplified Billing
   - name: No Setup
     image: images/feature/feature-2.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: 'With built-in expertise, you no longer need a PhD in Cloud to host business-critical
+      apps. Uffizzi is reliable, scalable and secure—out of the box. '
     title: Reliable. Scalable. Secure.
   - name: Optimized Data
     image: images/feature/feature-3.png
