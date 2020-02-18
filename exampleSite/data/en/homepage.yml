@@ -7,7 +7,7 @@ banner:
   content: Uffizzi is the fastest way to launch your app to a large and growing audience.
   button:
     enable: true
-    label: Deploy your app
+    label: Upload your app
     link: "#"
 partner:
   enable: false
