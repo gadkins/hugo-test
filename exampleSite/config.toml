@@ -68,13 +68,13 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
 URL = "service"
 name = "Service"
 weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "626 Main St, Ste 203, Nashville, TN 37206"
 author = "Uffizzi"
