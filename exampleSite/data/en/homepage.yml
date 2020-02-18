@@ -24,8 +24,8 @@ feature:
   feature_item:
   - name: Simplified Billing
     image: images/feature/feature-1.png
-    content: Have you ever had trouble understanding your cloud bill? Straightforward
-      billing let's you see your costs per project, per environment or per app.
+    content: Ever had trouble understanding your cloud bill? Straightforward billing
+      let's you see your costs per project, per environment or per app.
     title: Easy-to-understand billing
   - name: No Setup
     image: images/feature/feature-2.png
