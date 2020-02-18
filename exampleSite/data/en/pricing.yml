@@ -4,8 +4,8 @@ pricing:
   subtitle: Pricing table
   title: choose your plan
   pricing_table:
-  - title: Compute
-    price: "$7"
+  - title: Basic
+    price: "$49"
     unit: month
     description: Best for small individuals
     link: "#"
