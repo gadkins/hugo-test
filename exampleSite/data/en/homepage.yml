@@ -122,10 +122,4 @@ download:
     link: "#"
 pricing:
   enable: true
-  pricing_table:
-  - unit: 1 GB
-    description: ''
-    link: ''
-    services: ''
-    title: RAM
-    price: "7"
+  pricing_table: []
