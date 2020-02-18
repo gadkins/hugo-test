@@ -26,7 +26,7 @@ feature:
     image: images/feature/feature-1.png
     content: Ever had trouble understanding your cloud bill? Uffizzi does billing
       right with one straightforward bill.
-    title: Simple Billing
+    title: Simplified Billing
   - name: No Setup
     image: images/feature/feature-2.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
