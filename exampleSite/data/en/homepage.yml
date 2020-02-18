@@ -4,7 +4,7 @@ banner:
   bg_image: images/background/banner-uffizzi.png
   title: Deploy Apps. Delight Users.
   watermark: Deploy
-  content: Focus on your app, not your infrastructure.
+  content: Uffizzi is the fastest way to launch your app to a large and growing audience.
   button:
     enable: true
     label: Deploy your app
