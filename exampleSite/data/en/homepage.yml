@@ -19,27 +19,30 @@ partner:
   - images/partner/client-logo-5.png
 feature:
   enable: true
-  subtitle: fetures
-  title: exclusive features
+  subtitle: features
+  title: a cloud where confusion stops
   feature_item:
-  - name: Free Trial
+  - name: Simplified Billing
     image: images/feature/feature-1.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: Ever had trouble understanding your cloud bill? Straightforward billing
+      let's you see your costs per project, per environment or per app.
+    title: Easy-to-understand billing
   - name: No Setup
     image: images/feature/feature-2.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - name: Optimized Data
+    content: With built-in DevOps automation, you no longer need a Ph.D. in Cloud
+      to host business-critical apps that follow best practices.
+    title: Built-in expertise
+  - name: Reliable. Scalable. Secure.
     image: images/feature/feature-3.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: Building the next big thing? Uffizzi is serious infrastructure for seriously
+      big apps. It's the place to share your work to a large and growing audience.
+    title: Reliable. Scalable. Secure.
 about:
   enable: true
   about_item:
   - image: images/about/cloud-environment.png
     subtitle: cloud environments
-    title: Easily create cloud environments for Development or Production
+    title: Easily create secure cloud environments
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
       quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
@@ -119,3 +122,4 @@ download:
     link: "#"
 pricing:
   enable: true
+  pricing_table: []
