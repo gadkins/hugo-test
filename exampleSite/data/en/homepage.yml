@@ -32,11 +32,11 @@ feature:
     content: With built-in DevOps automation, you no longer need a Ph.D. in Cloud
       to host business-critical apps that follow best practices.
     title: Built-in expertise
-  - name: Optimized Data
+  - name: Reliable. Scalable. Secure.
     image: images/feature/feature-3.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-    title: Reliable, scalable, secure
+    content: Building the next big thing? We've got you covered. Uffizzi is the place
+      to share your work to a large and growing audience.
+    title: Reliable. Scalable. Secure.
 about:
   enable: true
   about_item:
