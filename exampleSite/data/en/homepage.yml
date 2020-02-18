@@ -36,6 +36,7 @@ feature:
     image: images/feature/feature-3.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
+    title: Reliable, scalable, secure
 about:
   enable: true
   about_item:
