@@ -24,8 +24,8 @@ feature:
   feature_item:
   - name: Free Trial
     image: images/feature/feature-1.png
-    content: Ever had trouble understanding your cloud bill? Uffizzi does billing
-      right with one straightforward bill.
+    content: Ever had trouble understanding your cloud bill? See what you're spending
+      per project, per environment or per app.
     title: Simplified Billing
   - name: No Setup
     image: images/feature/feature-2.png
