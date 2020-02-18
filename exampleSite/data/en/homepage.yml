@@ -118,7 +118,7 @@ download:
     label: Google Play
     link: "#"
   appstore:
-    label: app store
+    label: Sign up
     link: "#"
 pricing:
   enable: true
