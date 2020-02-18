@@ -19,7 +19,7 @@ partner:
   - images/partner/client-logo-5.png
 feature:
   enable: true
-  subtitle: fetures
+  subtitle: features
   title: a cloud where confusion stops
   feature_item:
   - name: Simplified Billing
