@@ -26,7 +26,7 @@ feature:
     image: images/feature/feature-1.png
     content: Ever had trouble understanding your cloud bill? See what you're spending
       per project, per environment or per app.
-    title: Easy to understand billing
+    title: Easy-to-understand billing
   - name: No Setup
     image: images/feature/feature-2.png
     content: With built-in DevOps automation, you no longer need a Ph.D. in Cloud
