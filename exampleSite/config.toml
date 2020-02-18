@@ -68,13 +68,13 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "service"
-name = "Service"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "service"
+name = "Service"
+weight = 2
 [params]
 address = "626 Main St, Ste 203, Nashville, TN 37206"
 author = "Uffizzi"
@@ -92,7 +92,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.navigation_button]
 enable = true
-label = "login"
+label = "sign up"
 link = "#"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
