@@ -34,9 +34,8 @@ feature:
     title: Built-in expertise
   - name: Reliable. Scalable. Secure.
     image: images/feature/feature-3.png
-    content: Building the next big thing? We've got you covered with serious infrastructure
-      for seriously big apps. Uffizzi is the place to share your work to a large and
-      growing audience.
+    content: Building the next big thing? Uffizzi is serious infrastructure for seriously
+      big apps. It's the place to share your work to a large and growing audience.
     title: Reliable. Scalable. Secure.
 about:
   enable: true
