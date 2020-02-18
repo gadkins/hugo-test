@@ -26,7 +26,7 @@ feature:
     image: images/feature/feature-1.png
     content: Ever had trouble understanding your cloud bill? See what you're spending
       per project, per environment or per app.
-    title: Simplified Billing
+    title: Easy to understand billing
   - name: No Setup
     image: images/feature/feature-2.png
     content: 'With built-in expertise, you no longer need a PhD in Cloud to host business-critical
