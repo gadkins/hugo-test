@@ -29,9 +29,9 @@ feature:
     title: Easy to understand billing
   - name: No Setup
     image: images/feature/feature-2.png
-    content: 'With built-in expertise, you no longer need a PhD in Cloud to host business-critical
-      apps. Uffizzi is reliable, scalable and secure—out of the box. '
-    title: Reliable. Scalable. Secure.
+    content: With built-in DevOps automation, you no longer need a Ph.D. in Cloud
+      to host business-critical apps that follow best practices.
+    title: Built-in expertise
   - name: Optimized Data
     image: images/feature/feature-3.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
