@@ -74,11 +74,11 @@ promo_video:
     Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
 testimonial:
   enable: true
-  subtitle: testimonial
-  title: What Our Clients Says?
+  subtitle: Cloud Complaints
+  title: Do any of these sound familiar?
   testimonial_item:
   - name: Alice kelly
-    designation: Happy client
+    designation: Lead developer
     content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
       dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
       nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
