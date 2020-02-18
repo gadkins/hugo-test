@@ -4,7 +4,7 @@ banner:
   bg_image: images/background/banner-uffizzi.png
   title: Deploy Apps. Delight Users.
   watermark: Deploy
-  content: Uffizzi is where ideas come to life.
+  content: A cloud platform that doesn't suck
   button:
     enable: true
     label: Deploy your app
