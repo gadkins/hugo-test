@@ -22,29 +22,24 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "#"
-name = "Privacy Policy"
-weight = 1
-[[menu.footer]]
-URL = "service"
-name = "Services"
-weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact us"
-weight = 3
+URL = "about"
+name = "Company History"
+weight = 5
 [[menu.footer]]
 URL = "about"
 name = "About us"
 weight = 4
 [[menu.footer]]
-URL = "about"
-name = "Company History"
-weight = 5
-[[menu.main]]
-URL = "career"
-name = "Career"
-parent = "Pages"
+URL = "contact"
+name = "Contact us"
+weight = 3
+[[menu.footer]]
+URL = "service"
+name = "Services"
+weight = 2
+[[menu.footer]]
+URL = "#"
+name = "Privacy Policy"
 weight = 1
 [[menu.main]]
 URL = "pricing"
@@ -52,29 +47,34 @@ name = "Pricing"
 parent = "Pages"
 weight = 2
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
+URL = "career"
+name = "Career"
+parent = "Pages"
+weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "about"
+name = "Devs"
+weight = 1
 [[menu.main]]
 URL = "service"
 name = "Service"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
 [params]
 address = "626 Main St, Ste 203, Nashville, TN 37206"
 author = "Uffizzi"
