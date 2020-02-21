@@ -1,7 +1,5 @@
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-{{"<!-- service -->" | safeHTML }}
-{{ with $data.service.service }}
+{{ $data := index .Site.Data .Site.Language.Lang }} {{"<!-- service -->" | safeHTML }} {{ with
+$data.service.service }}
 <section class="section section-lg-bottom">
   <div class="container">
     <div class="row">
@@ -9,12 +7,13 @@
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
       </div>
-      {{ range $index, $element:= .service_item }}
-      {{ $delay := mul $index 200}}
+      {{ range $index, $element:= .service_item }} {{ $delay := mul $index 200}}
       <div class="col-lg-3 col-sm-6 mb-4" data-aos="fade-up" data-aos-delay="{{$delay}}">
         <div class="card border-0 shadow rounded-xs pt-5">
           <div class="card-body">
-            <i class="fa {{ .icon }} icon-lg icon-{{ .icon_color }} icon-bg-{{ .icon_color }} icon-bg-circle mb-3"></i>
+            <i
+              class="fab {{ .icon }} icon-lg icon-{{ .icon_color }} icon-bg-{{ .icon_color }} icon-bg-circle mb-3"
+            ></i>
             <h4 class="mt-4 mb-3">{{ .title }}</h4>
             <p>{{ .content | markdownify }}</p>
           </div>
@@ -24,5 +23,4 @@
     </div>
   </div>
 </section>
-{{ end }}
-{{"<!-- service -->" | safeHTML }}
+{{ end }} {{"<!-- service -->" | safeHTML }}
