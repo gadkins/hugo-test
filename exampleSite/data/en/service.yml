@@ -29,11 +29,11 @@ service:
   - title: Free logging
     icon: fa-search-plus
     icon_color: green
-    content: 30 days of application logs come standard—no add-on costs.
+    content: Tired of expensive add-ons? 30 days of application logs come standard.
   - title: Never sleeps
     icon: fa-line-chart
     icon_color: orange
-    content: Your application is always on unlike other platforms that put them to
+    content: Your application is always on—unlike other platforms that put them to
       sleep.
   - title: Built on K8s
     icon: fa-object-ungroup
