@@ -29,7 +29,7 @@ service:
   - title: Free logging
     icon: fa-search-plus
     icon_color: green
-    content: Application logs come standard—no add-on costs.
+    content: 30 days of application logs come standard—no add-on costs.
   - title: Never sleeps
     icon: fa-line-chart
     icon_color: orange
