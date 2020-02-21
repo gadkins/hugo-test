@@ -17,7 +17,7 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments.
-  - title: Built on Kubernetes
+  - title: Built on K8s
     icon: fa-object-ungroup
     icon_color: primary
     content: Leverage the power of Kubernetes without ever touching it.
