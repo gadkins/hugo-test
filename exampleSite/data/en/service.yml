@@ -9,7 +9,7 @@ service:
     icon_color: primary
     content: Easy way to isolate different versions of your app—like development,
       staging or production branches
-  - title: Docker containers
+  - title: Docker
     icon: fa-users
     icon_color: yellow
     content: Run any stateless container from public Docker Hub
