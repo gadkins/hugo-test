@@ -35,7 +35,7 @@ service:
     icon_color: orange
     content: Your application is always on—unlike other platforms that put them to
       sleep.
-  - title: Built on K8s
+  - title: PHP
     icon: fa-object-ungroup
     icon_color: primary
     content: Leverage the power of Kubernetes without ever touching it.
