@@ -4,7 +4,7 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
-  - title: Unlimited environments
+  - title: Cloud environments
     icon: fa-object-ungroup
     icon_color: primary
     content: Easy way to isolate different versions of your app—like development,
