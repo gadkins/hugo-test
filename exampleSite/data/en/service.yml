@@ -5,7 +5,8 @@ service:
   title: Our Service Area
   service_item:
     - title: Node.js
-      image: images/languages/Nodejs.png
+      icon: fa-users
+      icon_color: green
       content: The popular server-side runtime for JavaScript
     - title: Ruby
       icon: fa-desktop
