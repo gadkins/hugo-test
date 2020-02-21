@@ -12,7 +12,7 @@ service:
   - title: Docker containers
     icon: fa-users
     icon_color: yellow
-    content: Import any stateless container directly from public Docker Hub
+    content: Import any stateless container directly from public Docker Hub.
   - title: SQL databases
     icon: fa-desktop
     icon_color: purple
