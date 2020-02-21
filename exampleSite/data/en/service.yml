@@ -19,7 +19,7 @@ service:
   - title: Python
     icon: fa-cloud
     icon_color: cyan
-    content: Automated best practices take the work out of locking down your environments.
+    content: A language that lets you work quickly and integrate systems more effectively
   - title: PHP
     icon: fa-object-ungroup
     icon_color: primary
