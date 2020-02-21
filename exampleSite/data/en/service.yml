@@ -18,10 +18,10 @@ service:
     icon_color: purple
     content: Connect a MySQL or Postgres database to your application with automated
       backups
-  - title: Cloud Service
+  - title: Built-in security
     icon: fa-cloud
     icon_color: cyan
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Automated best practices take the work out of locking down your environments
   - title: Consulting
     icon: fa-comments
     icon_color: red
