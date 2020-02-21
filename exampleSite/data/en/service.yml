@@ -22,10 +22,10 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments
-  - title: Autoscaling
+  - title: Auto-scaling
     icon: fa-comments
     icon_color: red
-    content: Autoscaling containers and databases keep your apps reliable and meeting
+    content: Auto-scaling containers and databases keep your apps reliable and meeting
       demand.
   - title: Free logging
     icon: fa-search-plus
