@@ -12,8 +12,7 @@ service:
   - title: Ruby
     icon: fa-desktop
     icon_color: purple
-    content: The dynamic, open-source programming language with a focus on simplicity
-      and productivity
+    content: A dynamic, open-source  language with a focus on simplicity and productivity
   - title: Python
     icon: fa-cloud
     icon_color: cyan
