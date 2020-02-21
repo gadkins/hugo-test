@@ -4,57 +4,56 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
-  - title: Node.js
-    icon:
-    - images/languages/Nodejs.png
-    icon_color: yellow
-    content: The popular server-side runtime for JavaScript
-  - title: Ruby
-    icon: fa-desktop
-    icon_color: purple
-    content: A dynamic, open-source  language with a focus on simplicity and productivity
-  - title: ".NET"
-    icon: fa-wpexplorer
-    icon_color: blue
-    content: See your usage per project, per environment, per app and even per container.
-  - title: Python
-    icon: fa-cloud
-    icon_color: cyan
-    content: A language that lets you work quickly and integrate systems more effectively
-  - title: PHP
-    icon: fa-object-ungroup
-    icon_color: primary
-    content: Leverage the power of Kubernetes without ever touching it.
-  - title: Scala
-    icon: fa-comments
-    icon_color: red
-    content: Auto-scaling containers and databases keep your apps reliable and meeting
-      demand.
-  - title: Go
-    icon: fa-search-plus
-    icon_color: green
-    content: Tired of expensive add-ons? 30 days of application logs come standard.
-  - title: 100+ Others
-    icon: fa-line-chart
-    icon_color: orange
-    content: You can use any language that runs on Linux as a container
+    - title: Node.js
+      image: images/languages/Nodejs.png
+      icon_color: yellow
+      content: The popular server-side runtime for JavaScript
+    - title: Ruby
+      icon: fa-desktop
+      icon_color: purple
+      content: A dynamic, open-source  language with a focus on simplicity and productivity
+    - title: '.NET'
+      icon: fa-wpexplorer
+      icon_color: blue
+      content: See your usage per project, per environment, per app and even per container.
+    - title: Python
+      icon: fa-cloud
+      icon_color: cyan
+      content: A language that lets you work quickly and integrate systems more effectively
+    - title: PHP
+      icon: fa-object-ungroup
+      icon_color: primary
+      content: Leverage the power of Kubernetes without ever touching it.
+    - title: Scala
+      icon: fa-comments
+      icon_color: red
+      content: Auto-scaling containers and databases keep your apps reliable and meeting
+        demand.
+    - title: Go
+      icon: fa-search-plus
+      icon_color: green
+      content: Tired of expensive add-ons? 30 days of application logs come standard.
+    - title: 100+ Others
+      icon: fa-line-chart
+      icon_color: orange
+      content: You can use any language that runs on Linux as a container
 feature:
   enable: true
   subtitle: fetures
   title: exclusive features
   feature_item:
-  - title: Exclusive Design
-    icon: fa-desktop
-    icon_color: primary
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - title: Easy Customize
-    icon: fa-gears
-    icon_color: primary
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - title: Extreme Security
-    icon: fa-shield
-    icon_color: primary
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    - title: Exclusive Design
+      icon: fa-desktop
+      icon_color: primary
+      content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
+        labore dolore magna.
+    - title: Easy Customize
+      icon: fa-gears
+      icon_color: primary
+      content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
+        labore dolore magna.
+    - title: Extreme Security
+      icon: fa-shield
+      icon_color: primary
+      content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
+        labore dolore magna.
