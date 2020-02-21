@@ -35,10 +35,10 @@ service:
     icon: fa-line-chart
     icon_color: orange
     content: Your application is always on.
-  - title: UX Prototyping
+  - title: Simplified Billing
     icon: fa-wpexplorer
     icon_color: blue
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: See your usage per project, per environment, per app and even per container.
 feature:
   enable: true
   subtitle: fetures
