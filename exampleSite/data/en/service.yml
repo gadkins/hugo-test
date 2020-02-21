@@ -33,10 +33,10 @@ service:
     icon: fa-search-plus
     icon_color: green
     content: Tired of expensive add-ons? 30 days of application logs come standard.
-  - title: Anything for Linux
+  - title: 100+ Others
     icon: fa-line-chart
     icon_color: orange
-    content: ''
+    content: You can use any language that runs on Linux as a container
 feature:
   enable: true
   subtitle: fetures
