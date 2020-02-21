@@ -4,10 +4,11 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
-  - title: Docker containers
+  - title: Node.js
     icon: fa-users
     icon_color: yellow
-    content: Import any stateless container directly from public Docker Hub.
+    content: The popular server-side runtime that supports React, Angular, Vue, Ember
+      and more.
   - title: SQL databases
     icon: fa-desktop
     icon_color: purple
