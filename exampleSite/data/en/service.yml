@@ -17,10 +17,10 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments.
-  - title: Built on K8s
-    icon: fa-object-ungroup
-    icon_color: primary
-    content: Leverage the power of Kubernetes without ever touching it.
+  - title: Simplified Billing
+    icon: fa-wpexplorer
+    icon_color: blue
+    content: See your usage per project, per environment, per app and even per container.
   - title: Auto-scaling
     icon: fa-comments
     icon_color: red
@@ -35,10 +35,10 @@ service:
     icon_color: orange
     content: Your application is always on unlike other platforms that put them to
       sleep.
-  - title: Simplified Billing
-    icon: fa-wpexplorer
-    icon_color: blue
-    content: See your usage per project, per environment, per app and even per container.
+  - title: Built on K8s
+    icon: fa-object-ungroup
+    icon_color: primary
+    content: Leverage the power of Kubernetes without ever touching it.
 feature:
   enable: true
   subtitle: fetures
