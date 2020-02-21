@@ -24,7 +24,7 @@ service:
     icon: fa-object-ungroup
     icon_color: primary
     content: Leverage the power of Kubernetes without ever touching it.
-  - title: Java
+  - title: Scala
     icon: fa-comments
     icon_color: red
     content: Auto-scaling containers and databases keep your apps reliable and meeting
