@@ -9,10 +9,10 @@ service:
     icon_color: primary
     content: Easy way to isolate different versions of your app—like development,
       staging or production branches
-  - title: Social Activity
+  - title: Docker containers
     icon: fa-users
     icon_color: yellow
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Run any stateless container from public Docker Hub
   - title: Web Design
     icon: fa-desktop
     icon_color: purple
