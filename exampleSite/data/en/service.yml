@@ -6,7 +6,7 @@ service:
   service_item:
     - title: Node.js
       icon: fa-node-js
-      icon_color: yellow
+      icon_color: green
       content: The popular server-side runtime for JavaScript
     - title: Ruby
       icon: fa-desktop
