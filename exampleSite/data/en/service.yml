@@ -18,7 +18,7 @@ service:
     content: See your usage per project, per environment, per app and even per container.
   - title: Python
     icon: fa-cloud
-    icon_color: "#fed626"
+    icon_color: cyan
     content: A language that lets you work quickly and integrate systems more effectively
   - title: PHP
     icon: fa-object-ungroup
