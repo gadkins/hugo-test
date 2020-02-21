@@ -30,7 +30,7 @@ service:
     icon_color: red
     content: Auto-scaling containers and databases keep your apps reliable and meeting
       demand.
-  - title: Java
+  - title: Go
     icon: fa-search-plus
     icon_color: green
     content: Tired of expensive add-ons? 30 days of application logs come standard.
