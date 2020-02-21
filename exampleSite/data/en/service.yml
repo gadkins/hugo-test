@@ -13,14 +13,18 @@ service:
     icon: fa-desktop
     icon_color: purple
     content: A dynamic, open-source  language with a focus on simplicity and productivity
-  - title: Python
-    icon: fa-cloud
-    icon_color: cyan
-    content: Automated best practices take the work out of locking down your environments.
   - title: ".NET"
     icon: fa-wpexplorer
     icon_color: blue
     content: See your usage per project, per environment, per app and even per container.
+  - title: Python
+    icon: fa-cloud
+    icon_color: cyan
+    content: Automated best practices take the work out of locking down your environments.
+  - title: PHP
+    icon: fa-object-ungroup
+    icon_color: primary
+    content: Leverage the power of Kubernetes without ever touching it.
   - title: Go
     icon: fa-comments
     icon_color: red
@@ -30,15 +34,11 @@ service:
     icon: fa-search-plus
     icon_color: green
     content: Tired of expensive add-ons? 30 days of application logs come standard.
-  - title: Clojure
+  - title: 100+
     icon: fa-line-chart
     icon_color: orange
     content: Your application is always on—unlike other platforms that put them to
       sleep.
-  - title: PHP
-    icon: fa-object-ungroup
-    icon_color: primary
-    content: Leverage the power of Kubernetes without ever touching it.
 feature:
   enable: true
   subtitle: fetures
