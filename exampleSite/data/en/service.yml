@@ -14,7 +14,7 @@ service:
     icon_color: purple
     content: The dynamic, open-source programming language with a focus on simplicity
       and productivity
-  - title: Built-in security
+  - title: Python
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments.
