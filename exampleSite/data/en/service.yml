@@ -21,7 +21,7 @@ service:
   - title: Built-in security
     icon: fa-cloud
     icon_color: cyan
-    content: Automated best practices take the work out of locking down your environments
+    content: Automated best practices take the work out of locking down your environments.
   - title: Auto-scaling
     icon: fa-comments
     icon_color: red
