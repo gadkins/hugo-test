@@ -13,7 +13,7 @@ service:
     icon: fa-users
     icon_color: yellow
     content: Run any stateless container from public Docker Hub
-  - title: Databases
+  - title: SQL databases
     icon: fa-desktop
     icon_color: purple
     content: Connect a MySQL or Postgres database to your application with automated
