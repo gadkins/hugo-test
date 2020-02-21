@@ -27,14 +27,14 @@ service:
     icon_color: red
     content: Autoscaling containers and databases keep your apps reliable and meeting
       demand.
-  - title: SEO Optimization
+  - title: Free logging
     icon: fa-search-plus
     icon_color: green
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
-  - title: Usability Testing
+    content: Application logs come standard—no add-on costs.
+  - title: Never sleeps
     icon: fa-line-chart
     icon_color: orange
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Your application is always on.
   - title: UX Prototyping
     icon: fa-wpexplorer
     icon_color: blue
