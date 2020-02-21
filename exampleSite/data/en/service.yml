@@ -7,8 +7,7 @@ service:
   - title: Node.js
     icon: fa-users
     icon_color: yellow
-    content: The popular server-side runtime that supports React, Angular, Vue, Ember
-      and more
+    content: The popular server-side runtime for JavaScript
   - title: Ruby
     icon: fa-desktop
     icon_color: purple
