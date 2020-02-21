@@ -17,7 +17,7 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments.
-  - title: Simplified Billing
+  - title: ".NET"
     icon: fa-wpexplorer
     icon_color: blue
     content: See your usage per project, per environment, per app and even per container.
