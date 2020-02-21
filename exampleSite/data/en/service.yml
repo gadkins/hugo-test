@@ -21,12 +21,12 @@ service:
     icon: fa-wpexplorer
     icon_color: blue
     content: See your usage per project, per environment, per app and even per container.
-  - title: Auto-scaling
+  - title: Go
     icon: fa-comments
     icon_color: red
     content: Auto-scaling containers and databases keep your apps reliable and meeting
       demand.
-  - title: Free logging
+  - title: Java
     icon: fa-search-plus
     icon_color: green
     content: Tired of expensive add-ons? 30 days of application logs come standard.
