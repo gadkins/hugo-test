@@ -17,7 +17,7 @@ service:
     icon: fa-desktop
     icon_color: purple
     content: Connect a MySQL or Postgres database to your application with automated
-      backups
+      backups.
   - title: Built-in security
     icon: fa-cloud
     icon_color: cyan
