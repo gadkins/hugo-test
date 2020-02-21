@@ -30,7 +30,7 @@ service:
     icon: fa-search-plus
     icon_color: green
     content: Tired of expensive add-ons? 30 days of application logs come standard.
-  - title: Never sleeps
+  - title: Clojure
     icon: fa-line-chart
     icon_color: orange
     content: Your application is always on—unlike other platforms that put them to
