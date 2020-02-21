@@ -33,7 +33,8 @@ service:
   - title: Never sleeps
     icon: fa-line-chart
     icon_color: orange
-    content: Your application is always on.
+    content: Your application is always on unlike other platforms that put them to
+      sleep.
   - title: Simplified Billing
     icon: fa-wpexplorer
     icon_color: blue
