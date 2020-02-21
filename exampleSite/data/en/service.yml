@@ -9,11 +9,11 @@ service:
     icon_color: yellow
     content: The popular server-side runtime that supports React, Angular, Vue, Ember
       and more.
-  - title: SQL databases
+  - title: Ruby
     icon: fa-desktop
     icon_color: purple
-    content: Connect a MySQL or Postgres database to your application with automated
-      backups.
+    content: The dynamic, open-source programming language with a focus on simplicity
+      and productivity
   - title: Built-in security
     icon: fa-cloud
     icon_color: cyan
