@@ -22,10 +22,11 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: Automated best practices take the work out of locking down your environments
-  - title: Consulting
+  - title: Autoscaling
     icon: fa-comments
     icon_color: red
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Autoscaling containers and databases keep your apps reliable and meeting
+      demand.
   - title: SEO Optimization
     icon: fa-search-plus
     icon_color: green
