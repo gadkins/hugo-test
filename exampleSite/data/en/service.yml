@@ -7,7 +7,7 @@ service:
     - title: Node.js
       #icon: fa-users
       icon:
-        - images/languages/Nodejs.svg
+        - images/languages/Nodejs.png
       icon_color: yellow
       content: The popular server-side runtime for JavaScript
     - title: Ruby
