@@ -2,9 +2,9 @@
 banner:
   enable: true
   bg_image: images/background/banner-uffizzi.png
-  title: Deploy Apps. Delight Users.
+  title: Where ideas come to life
   watermark: Deploy
-  content: Uffizzi is the fastest way to launch your app to a large and growing audience.
+  content: Uffizzi is the easiest way to host modern applications.
   button:
     enable: true
     label: Upload your app
