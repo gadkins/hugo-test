@@ -1,5 +1,4 @@
-{{ $data := index .Site.Data .Site.Language.Lang }} {{"<!-- service -->" | safeHTML }} {{ with
-$data.service.service }}
+{{"<!-- service -->" | safeHTML }} {{ with $data.service.service }}
 <section class="section section-lg-bottom">
   <div class="container">
     <div class="row">
